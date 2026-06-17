@@ -1,5 +1,5 @@
 📊 Walmart Sales Analytics Dashboard | Power BI
-<div align="center">
+
 🚀 Transforming Raw Sales Data into Actionable Business Insights
 
 
